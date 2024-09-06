@@ -1,0 +1,3 @@
+[submodule "UD_English-GUM"]
+	path = UD_English-GUM
+	url = git@github.com:UniversalDependencies/UD_English-GUM.git
